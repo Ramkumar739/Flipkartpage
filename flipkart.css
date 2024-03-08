@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav1{
+    background-color: blue;
+    width: 100%;
+    height: 80px;
+}
+.flip1{
+    color: aliceblue;
+    font-size: 13px;
+    position: absolute;
+    left: 90px;
+    top: 16px;
+}
+.flip2{
+    color: aliceblue;
+    font-size: 12px;
+    font-family: Arial,  sans-serif;
+    position: absolute;
+    left:100px;
+    top:48px;
+
+}
+.flip3 input{
+   background-color: rgb(250, 246, 246);
+    width: 35%;
+    height: 40px;
+    margin-left: 20%;
+    margin-top: 20px;
+    padding-left: 70px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+.flip3 .fa-solid{
+    position: absolute;
+    left: 21.8%;
+    top: 31px;
+    font-size: 22px;
+
+}
+.flip4 .fa-solid{
+    color: aliceblue;
+    
+    position: absolute;
+    right: 35%;
+    top: 27px;
+    font-size: 30px;
+}
+.flip5{
+    color: aliceblue;
+    margin-left: 66%;
+    margin-top: -30px;
+    font-size: 25px;
+}
+.flip6{
+    color: aliceblue;
+    font-size: 26px;
+    position: absolute;
+    right: 23%;
+    top: 30px;
+}
+.flip7{
+    margin-left: 75%;
+    margin-top: -30px;
+    padding-left:4px;
+}
+.flip8{
+    color: aliceblue;
+    font-size: 25px;
+    position: absolute;
+    right: 40px;
+    top: 32px;
+    display: flex;
+    flex-direction: row;
+
+}
+.flip9{
+    margin-left: 16px;
+}
+.nav2{
+    background-color:whitesmoke;
+    width: 98.5%;
+    height: 140px;
+    margin: 15px;
+    padding: 15px;
+}
+.pic{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+ .pic img{
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+    margin-right: 60px;
+         
+}
+.pic1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.pic1 h4{
+    margin-top: -88px;
+    margin-left: 17px;
+}
+h4:hover{
+    color: rgb(82, 82, 252);
+}
+.nav4{
+    background-color: whitesmoke;
+    width:98.5% ;
+    height: 360px;
+    margin: 10px;
+
+}
+h2{
+    padding-left: 30px;
+    padding-top: 15px;   
+}
+h2:hover{
+    color: rgb(94, 94, 250);
+}
+.elc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.nn1{
+    margin-top: 30px;
+    height: 160px;
+}
+.nn2{
+    margin-top: 30px;
+    height: 160px;
+}
+.nn3{
+    margin-top: 30px;
+    height: 135px;
+}
+.nn4{
+    margin-top: 30px;
+    height: 140px;
+}
+.nn5{
+    margin-top: 30px;
+    height: 135px;
+}
+.pic2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.rr1{
+    margin-top: 30px;
+    padding-right: 13px;
+}
+.pic3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+pre{
+    margin-top: -110px;
+}
